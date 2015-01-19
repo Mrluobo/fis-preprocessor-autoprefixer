@@ -4,6 +4,9 @@ fis-preprocessor-autoprefixer
 a autoprefixer plugin build for fis
 #fis-preporcessor-autoprefixer
 基于fis的一个标准预处理器插件。
+##安装
+`npm install -g fis-preprocessor-autoprefixer`
+
 ##配置信息
 fis-conf.js
 ```js
@@ -23,3 +26,6 @@ fis.config.merge({
     }
 });
 ```
+
+##运行
+`fis release`
