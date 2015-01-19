@@ -1,0 +1,16 @@
+{
+  "name": "fis-parser-autoprefixer",
+  "version": "0.0.1",
+  "description": "a autoprefixer plugin build for fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrluobo",
+  "email": "602003869@qq.com",
+  "license":"ISC",
+  "dependencies": {
+    "autoprefixer-core": "^4.0.2",
+    "postcss": "*"
+  }
+}
