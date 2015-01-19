@@ -1,6 +1,6 @@
 {
-  "name": "fis-parser-autoprefixer",
-  "version": "0.0.1",
+  "name": "fis-preprocessor-autoprefixer",
+  "version": "0.0.6",
   "description": "a autoprefixer plugin build for fis",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "email": "602003869@qq.com",
   "license":"ISC",
   "dependencies": {
-    "autoprefixer-core": "^4.0.2",
+    "autoprefixer-core": "*",
     "postcss": "*"
   }
 }
